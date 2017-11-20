@@ -1,1 +1,0 @@
-# Single-Shot-MultiBox-Detector-in-Airport
